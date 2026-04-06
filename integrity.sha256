@@ -1,0 +1,7 @@
+# Plenitude 5.0 — Evidence Integrity Hashes
+# Generated: 2026-04-06T02:50:34.910931+00:00
+# Algorithm: SHA-256
+
+d0a626f876a7c079ce781bca69573f29caa3eb7ae3b080d540758553f14f8e86  historico_akashico.db
+974012e5db95242b42e32af2a762504cbce7f55e6347f35c89bdd8e4b415217b  worker.log
+34815f36094d5ae4498fee7fc2c86b9f5310c86176ee55b9443ee8578e08d0fe  dna_state.txt
